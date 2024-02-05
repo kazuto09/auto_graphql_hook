@@ -1,0 +1,1 @@
+# auto_graphql_hook
